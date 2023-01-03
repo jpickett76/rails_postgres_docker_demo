@@ -1,4 +1,4 @@
-# rails_postgres_docker_demo
+# Rails With PostgreSQL and Docker Demo
 Docker container running Ruby on Rails and PostgreSQL foundation files
 
 Files go along with the blog post
