@@ -13,6 +13,7 @@ This will build a rails application accorcing to the options you supply.
 ```
 docker-compose run --no-deps web rails new . --force --database=postgresql
 docker-compose build
+docker-compose up
 ```
 
 ### Set Up the datbase.yml file
